@@ -113,7 +113,7 @@
     },
     "configuration": [
       {
-        "title": "VSCode Tasks in Sidebar",
+        "title": "Tasks",
         "properties": {
           "vscodeTasksSidebar.defaultGrouped": {
             "type": "boolean",
