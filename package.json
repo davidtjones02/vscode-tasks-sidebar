@@ -1,6 +1,6 @@
 {
   "name": "vscode-tasks-sidebar",
-  "displayName": "VSCode Tasks in Sidebar",
+  "displayName": "Tasks",
   "description": "A Visual Studio Code extension to display all tasks recognized by VSCode in sidebar",
   "version": "1.4.0",
   "icon": "images/logo.png",
